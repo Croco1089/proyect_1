@@ -4,6 +4,7 @@ void main() {
   runApp(const MyApp());
 }
 
+// esta es una prueba de modificacion de el proyecto para ver si se ve en el en pc
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
